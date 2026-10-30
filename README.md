@@ -103,10 +103,9 @@ covid_data <- read.csv(file_path)
 
 
 
-# =====================================================
 # COVID-19 DATA ANALYSIS AND ARIMA FORECASTING DASHBOARD
 # R + Shiny + ggplot2 + Plotly + ARIMA
-# =====================================================
+
 
 
 # STEP 1: INSTALL REQUIRED PACKAGES
